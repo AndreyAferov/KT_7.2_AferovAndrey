@@ -60,7 +60,17 @@ namespace MasterFloor.Pages
 
         private void HistoryButton_Click(object sender, RoutedEventArgs e)
         {
-            Manager.MainFrame.Navigate(new History());
+            Button historyButton = sender as Button;
+            var partnerData = historyButton.DataContext;
+
+            if (partnerData != null)
+            {
+                var partner = (partnerData as dynamic).Partner;
+                Classes.Manager.MainFrame.Navigate(new History(partner));
+            }
+            else
+            {
+            }
         }
 
         private void EditButton_Click(object sender, RoutedEventArgs e)

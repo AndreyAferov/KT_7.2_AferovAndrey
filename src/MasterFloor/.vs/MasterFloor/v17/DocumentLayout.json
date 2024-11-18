@@ -3,55 +3,47 @@
   "WorkspaceRootPath": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\kt\\git\\src\\MasterFloor\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{229C0A8B-2A5C-4C87-9CD2-B01AF13D4F88}|MasterFloor\\MasterFloor.csproj|C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\kt\\git\\src\\MasterFloor\\masterfloor\\pages\\listpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{229C0A8B-2A5C-4C87-9CD2-B01AF13D4F88}|MasterFloor\\MasterFloor.csproj|solutionrelative:masterfloor\\pages\\listpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{229C0A8B-2A5C-4C87-9CD2-B01AF13D4F88}|MasterFloor\\MasterFloor.csproj|C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\kt\\git\\src\\MasterFloor\\masterfloor\\pages\\addedit.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{229C0A8B-2A5C-4C87-9CD2-B01AF13D4F88}|MasterFloor\\MasterFloor.csproj|solutionrelative:masterfloor\\pages\\addedit.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{229C0A8B-2A5C-4C87-9CD2-B01AF13D4F88}|MasterFloor\\MasterFloor.csproj|C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\kt\\git\\src\\MasterFloor\\masterfloor\\pages\\listpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{229C0A8B-2A5C-4C87-9CD2-B01AF13D4F88}|MasterFloor\\MasterFloor.csproj|solutionrelative:masterfloor\\pages\\listpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{229C0A8B-2A5C-4C87-9CD2-B01AF13D4F88}|MasterFloor\\MasterFloor.csproj|c:\\users\\\u0430\u043D\u0434\u0440\u0435\u0439\\desktop\\kt\\git\\src\\masterfloor\\masterfloor\\pages\\history.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{229C0A8B-2A5C-4C87-9CD2-B01AF13D4F88}|MasterFloor\\MasterFloor.csproj|solutionrelative:masterfloor\\pages\\history.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{229C0A8B-2A5C-4C87-9CD2-B01AF13D4F88}|MasterFloor\\MasterFloor.csproj|c:\\users\\\u0430\u043D\u0434\u0440\u0435\u0439\\desktop\\kt\\git\\src\\masterfloor\\masterfloor\\pages\\listpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{229C0A8B-2A5C-4C87-9CD2-B01AF13D4F88}|MasterFloor\\MasterFloor.csproj|solutionrelative:masterfloor\\pages\\listpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{229C0A8B-2A5C-4C87-9CD2-B01AF13D4F88}|MasterFloor\\MasterFloor.csproj|c:\\users\\\u0430\u043D\u0434\u0440\u0435\u0439\\desktop\\kt\\git\\src\\masterfloor\\masterfloor\\pages\\addedit.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{229C0A8B-2A5C-4C87-9CD2-B01AF13D4F88}|MasterFloor\\MasterFloor.csproj|solutionrelative:masterfloor\\pages\\addedit.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{229C0A8B-2A5C-4C87-9CD2-B01AF13D4F88}|MasterFloor\\MasterFloor.csproj|c:\\users\\\u0430\u043D\u0434\u0440\u0435\u0439\\desktop\\kt\\git\\src\\masterfloor\\masterfloor\\pages\\listpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{229C0A8B-2A5C-4C87-9CD2-B01AF13D4F88}|MasterFloor\\MasterFloor.csproj|solutionrelative:masterfloor\\pages\\listpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{229C0A8B-2A5C-4C87-9CD2-B01AF13D4F88}|MasterFloor\\MasterFloor.csproj|c:\\users\\\u0430\u043D\u0434\u0440\u0435\u0439\\desktop\\kt\\git\\src\\masterfloor\\masterfloor\\data\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
-      "RelativeMoniker": "D:0:0:{229C0A8B-2A5C-4C87-9CD2-B01AF13D4F88}|MasterFloor\\MasterFloor.csproj|solutionrelative:masterfloor\\data\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{229C0A8B-2A5C-4C87-9CD2-B01AF13D4F88}|MasterFloor\\MasterFloor.csproj|c:\\users\\\u0430\u043D\u0434\u0440\u0435\u0439\\desktop\\kt\\git\\src\\masterfloor\\masterfloor\\pages\\history.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{229C0A8B-2A5C-4C87-9CD2-B01AF13D4F88}|MasterFloor\\MasterFloor.csproj|C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\kt\\git\\src\\MasterFloor\\masterfloor\\pages\\history.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{229C0A8B-2A5C-4C87-9CD2-B01AF13D4F88}|MasterFloor\\MasterFloor.csproj|solutionrelative:masterfloor\\pages\\history.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{229C0A8B-2A5C-4C87-9CD2-B01AF13D4F88}|MasterFloor\\MasterFloor.csproj|c:\\users\\\u0430\u043D\u0434\u0440\u0435\u0439\\desktop\\kt\\git\\src\\masterfloor\\masterfloor\\data\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{229C0A8B-2A5C-4C87-9CD2-B01AF13D4F88}|MasterFloor\\MasterFloor.csproj|solutionrelative:masterfloor\\data\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{229C0A8B-2A5C-4C87-9CD2-B01AF13D4F88}|MasterFloor\\MasterFloor.csproj|c:\\users\\\u0430\u043D\u0434\u0440\u0435\u0439\\desktop\\kt\\git\\src\\masterfloor\\masterfloor\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{229C0A8B-2A5C-4C87-9CD2-B01AF13D4F88}|MasterFloor\\MasterFloor.csproj|C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\kt\\git\\src\\MasterFloor\\masterfloor\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{229C0A8B-2A5C-4C87-9CD2-B01AF13D4F88}|MasterFloor\\MasterFloor.csproj|solutionrelative:masterfloor\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{229C0A8B-2A5C-4C87-9CD2-B01AF13D4F88}|MasterFloor\\MasterFloor.csproj|c:\\users\\\u0430\u043D\u0434\u0440\u0435\u0439\\desktop\\kt\\git\\src\\masterfloor\\masterfloor\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{229C0A8B-2A5C-4C87-9CD2-B01AF13D4F88}|MasterFloor\\MasterFloor.csproj|C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\kt\\git\\src\\MasterFloor\\masterfloor\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{229C0A8B-2A5C-4C87-9CD2-B01AF13D4F88}|MasterFloor\\MasterFloor.csproj|solutionrelative:masterfloor\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{229C0A8B-2A5C-4C87-9CD2-B01AF13D4F88}|MasterFloor\\MasterFloor.csproj|c:\\users\\\u0430\u043D\u0434\u0440\u0435\u0439\\desktop\\kt\\git\\src\\masterfloor\\masterfloor\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{229C0A8B-2A5C-4C87-9CD2-B01AF13D4F88}|MasterFloor\\MasterFloor.csproj|C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\kt\\git\\src\\MasterFloor\\masterfloor\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{229C0A8B-2A5C-4C87-9CD2-B01AF13D4F88}|MasterFloor\\MasterFloor.csproj|solutionrelative:masterfloor\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{229C0A8B-2A5C-4C87-9CD2-B01AF13D4F88}|MasterFloor\\MasterFloor.csproj|c:\\users\\\u0430\u043D\u0434\u0440\u0435\u0439\\desktop\\kt\\git\\src\\masterfloor\\masterfloor\\pages\\addedit.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{229C0A8B-2A5C-4C87-9CD2-B01AF13D4F88}|MasterFloor\\MasterFloor.csproj|C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\kt\\git\\src\\MasterFloor\\masterfloor\\pages\\addedit.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{229C0A8B-2A5C-4C87-9CD2-B01AF13D4F88}|MasterFloor\\MasterFloor.csproj|solutionrelative:masterfloor\\pages\\addedit.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{229C0A8B-2A5C-4C87-9CD2-B01AF13D4F88}|MasterFloor\\MasterFloor.csproj|c:\\users\\\u0430\u043D\u0434\u0440\u0435\u0439\\desktop\\kt\\git\\src\\masterfloor\\masterfloor\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{229C0A8B-2A5C-4C87-9CD2-B01AF13D4F88}|MasterFloor\\MasterFloor.csproj|C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\kt\\git\\src\\MasterFloor\\masterfloor\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{229C0A8B-2A5C-4C87-9CD2-B01AF13D4F88}|MasterFloor\\MasterFloor.csproj|solutionrelative:masterfloor\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{229C0A8B-2A5C-4C87-9CD2-B01AF13D4F88}|MasterFloor\\MasterFloor.csproj|c:\\users\\\u0430\u043D\u0434\u0440\u0435\u0439\\desktop\\kt\\git\\src\\masterfloor\\masterfloor\\classes\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{229C0A8B-2A5C-4C87-9CD2-B01AF13D4F88}|MasterFloor\\MasterFloor.csproj|C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\kt\\git\\src\\MasterFloor\\masterfloor\\classes\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{229C0A8B-2A5C-4C87-9CD2-B01AF13D4F88}|MasterFloor\\MasterFloor.csproj|solutionrelative:masterfloor\\classes\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -62,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -78,45 +70,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "History.xaml.cs",
               "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\kt\\git\\src\\MasterFloor\\MasterFloor\\Pages\\History.xaml.cs",
               "RelativeDocumentMoniker": "MasterFloor\\Pages\\History.xaml.cs",
               "ToolTip": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\kt\\git\\src\\MasterFloor\\MasterFloor\\Pages\\History.xaml.cs",
               "RelativeToolTip": "MasterFloor\\Pages\\History.xaml.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAAABwAAABHAAAA",
+              "ViewState": "AQIAABQAAAAAAAAAAAAcwCAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-18T13:14:02.245Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Model1.Context.cs",
-              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\kt\\git\\src\\MasterFloor\\MasterFloor\\Data\\Model1.Context.cs",
-              "RelativeDocumentMoniker": "MasterFloor\\Data\\Model1.Context.cs",
-              "ToolTip": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\kt\\git\\src\\MasterFloor\\MasterFloor\\Data\\Model1.Context.cs",
-              "RelativeToolTip": "MasterFloor\\Data\\Model1.Context.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T13:13:08.534Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Model1.edmx [Diagram1]",
-              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\kt\\git\\src\\MasterFloor\\MasterFloor\\Data\\Model1.edmx",
-              "RelativeDocumentMoniker": "MasterFloor\\Data\\Model1.edmx",
-              "ToolTip": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\kt\\git\\src\\MasterFloor\\MasterFloor\\Data\\Model1.edmx [Diagram1]",
-              "RelativeToolTip": "MasterFloor\\Data\\Model1.edmx [Diagram1]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
-              "WhenOpened": "2024-11-18T13:12:43.66Z",
-              "EditorCaption": " [Diagram1]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "History.xaml",
               "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\kt\\git\\src\\MasterFloor\\MasterFloor\\Pages\\History.xaml",
               "RelativeDocumentMoniker": "MasterFloor\\Pages\\History.xaml",
@@ -128,21 +95,21 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Pages\\ListPage.xaml.cs",
+              "DocumentIndex": 2,
+              "Title": "ListPage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\kt\\git\\src\\MasterFloor\\MasterFloor\\Pages\\ListPage.xaml.cs",
               "RelativeDocumentMoniker": "MasterFloor\\Pages\\ListPage.xaml.cs",
               "ToolTip": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\kt\\git\\src\\MasterFloor\\MasterFloor\\Pages\\ListPage.xaml.cs",
               "RelativeToolTip": "MasterFloor\\Pages\\ListPage.xaml.cs",
-              "ViewState": "AQIAADEAAAAAAAAAAAAUwD4AAAA2AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-18T12:32:33.953Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Pages\\AddEdit.xaml.cs",
+              "DocumentIndex": 1,
+              "Title": "AddEdit.xaml.cs",
               "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\kt\\git\\src\\MasterFloor\\MasterFloor\\Pages\\AddEdit.xaml.cs",
               "RelativeDocumentMoniker": "MasterFloor\\Pages\\AddEdit.xaml.cs",
               "ToolTip": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\kt\\git\\src\\MasterFloor\\MasterFloor\\Pages\\AddEdit.xaml.cs",
@@ -154,7 +121,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "ListPage.xaml",
               "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\kt\\git\\src\\MasterFloor\\MasterFloor\\Pages\\ListPage.xaml",
               "RelativeDocumentMoniker": "MasterFloor\\Pages\\ListPage.xaml",
@@ -166,7 +133,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 8,
               "Title": "AddEdit.xaml",
               "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\kt\\git\\src\\MasterFloor\\MasterFloor\\Pages\\AddEdit.xaml",
               "RelativeDocumentMoniker": "MasterFloor\\Pages\\AddEdit.xaml",
@@ -178,7 +145,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\kt\\git\\src\\MasterFloor\\MasterFloor\\App.xaml",
               "RelativeDocumentMoniker": "MasterFloor\\App.xaml",
@@ -190,7 +157,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "App.config",
               "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\kt\\git\\src\\MasterFloor\\MasterFloor\\App.config",
               "RelativeDocumentMoniker": "MasterFloor\\App.config",
@@ -198,12 +165,11 @@
               "RelativeToolTip": "MasterFloor\\App.config",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-11-18T12:14:39.865Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-18T12:14:39.865Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 7,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\kt\\git\\src\\MasterFloor\\MasterFloor\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MasterFloor\\MainWindow.xaml",
@@ -215,7 +181,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 10,
               "Title": "Manager.cs",
               "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\kt\\git\\src\\MasterFloor\\MasterFloor\\Classes\\Manager.cs",
               "RelativeDocumentMoniker": "MasterFloor\\Classes\\Manager.cs",
@@ -223,12 +189,11 @@
               "RelativeToolTip": "MasterFloor\\Classes\\Manager.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T12:10:30.638Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-18T12:10:30.638Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 9,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0434\u0440\u0435\u0439\\Desktop\\kt\\git\\src\\MasterFloor\\MasterFloor\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MasterFloor\\MainWindow.xaml.cs",
@@ -236,8 +201,7 @@
               "RelativeToolTip": "MasterFloor\\MainWindow.xaml.cs",
               "ViewState": "AQIAAAsAAAAAAAAAAAAAABwAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T12:06:33.724Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-18T12:06:33.724Z"
             }
           ]
         }

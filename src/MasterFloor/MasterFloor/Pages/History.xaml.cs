@@ -1,4 +1,5 @@
 ﻿using MasterFloor.Classes;
+using MasterFloor.Data;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -21,11 +22,30 @@ namespace MasterFloor.Pages
     /// </summary>
     public partial class History : Page
     {
-        public History()
+        private readonly Data.Partner _selectedPartner;
+        private Partner _partner;
+        public History(Partner partner)
         {
+            _partner = partner;
             InitializeComponent();
+            LoadHistoryData();
         }
 
+        private void LoadHistoryData()
+        {
+            var historyData = from product in Data.MasterFloorsEntities.GetContext().PartnerProducts
+                              join type in Data.MasterFloorsEntities.GetContext().TypeProduct
+                              on product.Production equals type.Id
+                              where product.PartnerName == _partner.Id
+                              select new
+                              {
+                                  Productionn = type.Name,
+                                  CountOfProduction = product.CountProduct,
+                                  DateOfSale = product.DateSell
+                              };
+
+            HistoryDataGrid.ItemsSource = historyData.ToList();
+        }
         private void BackButton_Click(object sender, RoutedEventArgs e)
         {
             Manager.MainFrame.Navigate(new ListPage());

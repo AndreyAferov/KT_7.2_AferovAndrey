@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MasterFloor", "MasterFloor\MasterFloor.csproj", "{229C0A8B-2A5C-4C87-9CD2-B01AF13D4F88}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{229C0A8B-2A5C-4C87-9CD2-B01AF13D4F88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{229C0A8B-2A5C-4C87-9CD2-B01AF13D4F88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{229C0A8B-2A5C-4C87-9CD2-B01AF13D4F88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{229C0A8B-2A5C-4C87-9CD2-B01AF13D4F88}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F437E87-07A0-4F8B-912A-B65B08304A1C}
+	EndGlobalSection
+EndGlobal

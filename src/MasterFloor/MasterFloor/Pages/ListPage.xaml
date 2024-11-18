@@ -20,9 +20,7 @@
             <ListView.ItemTemplate>
                 <DataTemplate>
                     <Grid>
-                        
-                   
-                    <Grid.ColumnDefinitions>
+                        <Grid.ColumnDefinitions>
                         <ColumnDefinition Width="350"></ColumnDefinition>
                         <ColumnDefinition Width="150"></ColumnDefinition>
                         <ColumnDefinition></ColumnDefinition>

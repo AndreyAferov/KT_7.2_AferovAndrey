@@ -70,6 +70,7 @@ namespace MasterFloor.Pages
             }
             else
             {
+                MessageBox.Show("Ошибка!","Ошибка!", MessageBoxButton.OK, MessageBoxImage.Error);
             }
         }
 

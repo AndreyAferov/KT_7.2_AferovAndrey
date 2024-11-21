@@ -31,13 +31,30 @@
         <Label Grid.Row="0" Grid.Column="0" Content="Наименование" VerticalAlignment="Center" HorizontalAlignment="Center"></Label>
         <Label Grid.Row="1" Grid.Column="0" Content="Тип партнера" VerticalAlignment="Center" HorizontalAlignment="Center"></Label>
         <Label Grid.Row="2" Grid.Column="0" Content="Рейтинг" VerticalAlignment="Center" HorizontalAlignment="Center"></Label>
-        <Label Grid.Row="3" Grid.Column="0" Content="Адрес" VerticalAlignment="Center" HorizontalAlignment="Center"></Label>
         <Label Grid.Row="4" Grid.Column="0" Content="ФИО директора" VerticalAlignment="Center" HorizontalAlignment="Center"></Label>
-        <Label Grid.Row="0" Grid.Column="2" Content="Телефон" VerticalAlignment="Center" HorizontalAlignment="Center"></Label>
-        <Label Grid.Row="1" Grid.Column="2" Content="Email" VerticalAlignment="Center" HorizontalAlignment="Center"></Label>
+        <Label Grid.Row="3" Grid.Column="0" Content="Телефон" VerticalAlignment="Center" HorizontalAlignment="Center"></Label>
+        <Label Grid.Row="0" Grid.Column="2" Content="Email" VerticalAlignment="Center" HorizontalAlignment="Center"></Label>
+        <Label Grid.Row="1" Grid.Column="2" Content="Регион" VerticalAlignment="Center" HorizontalAlignment="Center"></Label>
+        <Label Grid.Row="2" Grid.Column="2" Content="Город" VerticalAlignment="Center" HorizontalAlignment="Center"></Label>
+        <Label Grid.Row="3" Grid.Column="2" Content="Улица" VerticalAlignment="Center" HorizontalAlignment="Center"></Label>
+        <Label Grid.Row="4" Grid.Column="2" Content="Номер дома" VerticalAlignment="Center" HorizontalAlignment="Center"></Label>
+        <Label Grid.Row="5" Grid.Column="2" Content="Индекс" VerticalAlignment="Center" HorizontalAlignment="Center"></Label>
 
-                
-        
+
+        <TextBox x:Name="IdTextBox" Margin="10" Grid.Row="0" Grid.Column="1" IsEnabled="False" IsReadOnly="True"/>
+        <TextBox x:Name="NameTextBox" Margin="10" Grid.Row="0" Grid.Column="1"/>
+        <ComboBox x:Name="ComboPar" Margin="10"  Grid.Row="1" Grid.Column="1" DisplayMemberPath="NamePartner"/>
+        <TextBox x:Name="RatingTextBox" Margin="10" Grid.Row="2" Grid.Column="1"/>
+        <TextBox x:Name="RegionTextBox" Margin="10" Grid.Row="1" Grid.Column="3"/>
+        <TextBox x:Name="CityTextBox" Margin="10" Grid.Row="2" Grid.Column="3"/>
+        <TextBox x:Name="StreetTextBox" Margin="10" Grid.Row="3" Grid.Column="3"/>
+        <TextBox x:Name="HouseNumTextBox" Margin="10" Grid.Row="4" Grid.Column="3"/>
+        <TextBox x:Name="IndexTextBox" Margin="10" Grid.Row="5" Grid.Column="3"/>
+        <TextBox x:Name="FIOTextBox" Margin="10" Grid.Row="4" Grid.Column="1"/>
+        <TextBox x:Name="PhoneTextBox" Margin="10"  Grid.Row="3" Grid.Column="1"/>
+        <TextBox x:Name="EmailTextBox" Margin="10" Grid.Row="0" Grid.Column="3"/>
+
+
         <Button Content="Назад" x:Name="BackButton" Click="BackButton_Click" Grid.Column="0" Grid.Row="6"></Button>
         <Button Content="Сохранить" x:Name="SaveButton" Click="SaveButton_Click" Grid.Column="3" Grid.Row="6"></Button>
     </Grid>
